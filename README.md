@@ -7,4 +7,4 @@ Some random coding questions for practicing and preparing for Python Interviews
 
 3) Write a Python code to remove all the blank spaces in a given string
 
-4)Write a Python code to reverse array using while loop
+4) Write a Python code to reverse array using while loop
