@@ -8,3 +8,5 @@ Some simple random coding questions for practicing and preparing for Python Inte
 3) Write a Python code to remove all the blank spaces in a given string
 
 4) Write a Python code to reverse array using while loop
+
+5) Write a Python code to sort string character in ascending order
