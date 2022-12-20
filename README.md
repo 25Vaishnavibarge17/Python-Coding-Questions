@@ -10,3 +10,5 @@ Some simple random coding questions for practicing and preparing for Python Inte
 4) Write a Python code to reverse array using while loop
 
 5) Write a Python code to sort string character in ascending order
+
+6) Write a Python code to find all pairs in array of integers whose sum is equal to given number.
