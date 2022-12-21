@@ -1,4 +1,7 @@
 # Python-Coding-Questions
+
+![Python Coding Questions jpg](https://user-images.githubusercontent.com/89184566/208893681-f7492446-6e93-43ef-a5a8-057190754c75.png)
+
 Some simple random coding questions for practicing and preparing for Python Interviews
 
 1) Write a program in Python to check given number is prime or not.
