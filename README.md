@@ -12,3 +12,5 @@ Some simple random coding questions for practicing and preparing for Python Inte
 5) Write a Python code to sort string character in ascending order
 
 6) Write a Python code to find all pairs in array of integers whose sum is equal to given number.
+
+7) Write a Python Program to find second largest number in an array
