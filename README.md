@@ -17,3 +17,5 @@ Some simple random coding questions for practicing and preparing for Python Inte
 6) Write a Python code to find all pairs in array of integers whose sum is equal to given number.
 
 7) Write a Python Program to find second largest number in an array
+
+8) Write a Python Program to Find Sum Of Digits Of a Number with and without recursion method
