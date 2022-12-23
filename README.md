@@ -19,3 +19,5 @@ Some simple random coding questions for practicing and preparing for Python Inte
 7) Write a Python Program to find second largest number in an array
 
 8) Write a Python Program to Find Sum Of Digits Of a Number with and without recursion method
+
+9) Write a Python Program to find Factorial of given number using recursion and without recursion
