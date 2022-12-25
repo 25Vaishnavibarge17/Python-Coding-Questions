@@ -21,3 +21,5 @@ Some simple random coding questions for practicing and preparing for Python Inte
 8) Write a Python Program to Find Sum Of Digits Of a Number with and without recursion method
 
 9) Write a Python Program to find Factorial of given number using recursion and without recursion
+
+10) Write a Python program to calculate the square root of a given number
