@@ -23,3 +23,6 @@ Some simple random coding questions for practicing and preparing for Python Inte
 9) Write a Python Program to find Factorial of given number using recursion and without recursion
 
 10) Write a Python program to calculate the square root of a given number
+
+11) Write a Python program to calculate the LCM of a given two numbers
+
