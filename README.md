@@ -26,5 +26,5 @@ Some simple random coding questions for practicing and preparing for Python Inte
 
 11) Write a Python program to calculate the LCM of a given two numbers
 
-12)Write a Python Program to check if two Strings are Anagram.
+12) Write a Python Program to check if two Strings are Anagram.
 
